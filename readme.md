@@ -9,7 +9,7 @@ Zona is a scalable infrastructure for composable RWA tokens designed for users t
 
 ### Features
 - **Proprietary Real Estate Indexes:** All real estate transactions are scraped and transformed into an index that tracks the median price per square feet of real estate for a city.
-- **Real Estate Trading:** We allow users to trade 
+- **Real Estate Trading:** We allow users to long or short real estate prices of different cities around the world
 
 
 
@@ -21,6 +21,8 @@ Zona is a scalable infrastructure for composable RWA tokens designed for users t
 ### Images
 <img width="1512" alt="img1" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-19%20at%206.12.57%E2%80%AFPM.png?raw=true">
 <img width="1512" alt="img2" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-19%20at%206.14.01%E2%80%AFPM.png?raw=true">
-<img width="1511" alt="img3" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-19%20at%206.14.41%E2%80%AFPM.png?raw=true">
-<img width="1512" alt="img4" src="https://github.com/user-attachments/assets/6ccf153a-d841-4803-a8e2-22b77b1fd419">
-<img width="1512" alt="img5" src="https://github.com/user-attachments/assets/4f4b0a4e-36b6-400a-bc2b-dd2540470729">
+<img width="1512" alt="img3" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-19%20at%206.14.41%E2%80%AFPM.png?raw=true">
+<img width="1512" alt="img4" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-20%20000606.png?raw=true">
+<img width="1512" alt="img5" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-20%20000542.png?raw=true">
+<img width="1512" alt="img5" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-20%20000654.png?raw=true">
+<img width="1512" alt="img5" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-20%20000722.png?raw=true">
