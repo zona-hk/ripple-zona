@@ -21,7 +21,7 @@ Zona is a scalable infrastructure for composable RWA tokens designed for users t
 
 ### Images
 <img width="1512" alt="img1" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-19%20at%206.12.57%E2%80%AFPM.png?raw=true">
-<img width="1512" alt="img2" src="https://github.com/user-attachments/assets/825331ff-a0a8-4b42-a55c-92ead9d8735c">
-<img width="1511" alt="img3" src="https://github.com/user-attachments/assets/8d5ac7a6-026d-4dec-bf24-4909bcfae450">
+<img width="1512" alt="img2" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-19%20at%206.14.01%E2%80%AFPM.png?raw=true">
+<img width="1511" alt="img3" src="https://github.com/zona-hk/ripple-zona/blob/main/readme_assets/Screenshot%202025-02-19%20at%206.14.41%E2%80%AFPM.png?raw=true">
 <img width="1512" alt="img4" src="https://github.com/user-attachments/assets/6ccf153a-d841-4803-a8e2-22b77b1fd419">
 <img width="1512" alt="img5" src="https://github.com/user-attachments/assets/4f4b0a4e-36b6-400a-bc2b-dd2540470729">
