@@ -1,0 +1,27 @@
+
+
+
+---
+
+
+### What is Zona?
+Zona is a scalable infrastructure for composable RWA tokens designed for users to speculate on real estate prices. Users stake ETH or stablecoins like USDC, RLUSD as collateral to mint real estate tokens, such as Dubai Token. These tokens will be pegged to the median price per sq.ft. of real estate for major cities using a peg stability module. Investors can then speculate on these tokens by going long or short through our lending arm.
+
+### Features
+- **Parachain:** Developed on a Substrate node based off the template with modifications to the runtime and pallets. This can be tested on Rococo by running multiple of these nodes and a collator.
+- **Proprietary Real Estate Indexes:** All real estate transactions are scraped and transformed into an index that tracks the median price per square feet of real estate for a city.
+- 
+
+
+
+### Demo
+- [Demo v1 ](https://www.youtube.com/watch?v=1BiVWuq7SzI)(25 Jun 2023)
+- [Demo v2](https://youtu.be/hxdMcE9n4cY) (21 July 2024) 
+
+
+### Images
+<img width="1512" alt="img1" src="https://github.com/user-attachments/assets/37c94ec1-5d0e-444d-889a-b66ee9043805">
+<img width="1512" alt="img2" src="https://github.com/user-attachments/assets/825331ff-a0a8-4b42-a55c-92ead9d8735c">
+<img width="1511" alt="img3" src="https://github.com/user-attachments/assets/8d5ac7a6-026d-4dec-bf24-4909bcfae450">
+<img width="1512" alt="img4" src="https://github.com/user-attachments/assets/6ccf153a-d841-4803-a8e2-22b77b1fd419">
+<img width="1512" alt="img5" src="https://github.com/user-attachments/assets/4f4b0a4e-36b6-400a-bc2b-dd2540470729">
