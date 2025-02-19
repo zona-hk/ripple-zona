@@ -14,8 +14,8 @@ Zona is a scalable infrastructure for composable RWA tokens designed for users t
 
 
 ### Demo
-- [Demo v1 ](https://www.youtube.com/watch?v=1BiVWuq7SzI)(25 Jun 2023)
-- [Demo v2](https://youtu.be/hxdMcE9n4cY) (21 July 2024) 
+- [30s Demo](https://www.youtube.com/watch?v=GizKsFlJxIk)
+- [Detailed Demo](https://www.youtube.com/watch?v=ChY4ZfY_8po)
 
 
 ### Images
