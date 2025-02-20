@@ -8,9 +8,13 @@ Zona is a scalable infrastructure for composable RWA tokens designed for users t
 
 
 
-### Demo
+### Demo - Ripple
 - [30s Demo](https://www.youtube.com/watch?v=GizKsFlJxIk)
 - [Detailed Demo](https://www.youtube.com/watch?v=ChY4ZfY_8po)
+
+### Demo - Aptos
+- [30s Demo](https://www.youtube.com/watch?v=rLgR9J97FUo)
+- [Detailed Demo](https://www.youtube.com/watch?v=LjNmqqLeIZA)
 
 
 ### Images
