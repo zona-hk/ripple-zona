@@ -19,6 +19,9 @@ npm run dev
 ```
 - Enjoy!
 
+## Contracts
+- Contracts are located under `backend/contracts`, the contracts are written in Solidity and built with Foundry! You may use the deploy script to deploy your own
+
 ### Demo
 - [30s Demo](https://www.youtube.com/watch?v=GizKsFlJxIk)
 - [Detailed Demo](https://www.youtube.com/watch?v=ChY4ZfY_8po)
