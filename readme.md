@@ -6,12 +6,25 @@ Zona is a scalable infrastructure for composable RWA tokens designed for users t
 - **Proprietary Real Estate Indexes:** All real estate transactions are scraped and transformed into an index that tracks the median price per square feet of real estate for a city.
 - **Real Estate Trading:** We allow users to long or short real estate prices of different cities around the world
 
+## Usage
+- Make sure you create a `.env` file with the following content in the root directory of the frontend
+```
+NEXT_PUBLIC_API_BASE_URL='https://api.zona.finance'
+NEXT_PUBLIC_PROJECTID=66299b59c166752d10a4fd338dc1c11c
+```
+- You may directly run the frontend with the below commands
+```
+npm install
+npm run dev
+```
+- Enjoy!
 
+## Contracts
+- Contracts are located under `backend/contracts`, the contracts are written in Solidity and built with Foundry! You may use the deploy script to deploy your own
 
-### Demo - Ripple
+### Demo
 - [30s Demo](https://www.youtube.com/watch?v=GizKsFlJxIk)
 - [Detailed Demo](https://www.youtube.com/watch?v=ChY4ZfY_8po)
-
 
 
 ### Images
